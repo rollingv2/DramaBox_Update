@@ -1,8 +1,8 @@
 {
   "latest_version": "v1.0.0",
-  "version_code": 510,
+  "version_code": 511,
   "title": "DramaBox 1",
-  "changelog": "- DramaBox Version New 5.1.0\n- Bug fixes\n- Performance improvements\n- Fixed the anonymous data issue\n- If you still experience any issues the solution is to install the latest version and try clearing the app data and Google Play Services data\n- size 65.53 MB\n- Updated to the latest version",
+  "changelog": "- DramaBox Version New 5.1.1\n- Bug Fixes\n- Performance improvements\n- Fixed the anonymous data issue\n- If you still experience any issues the solution is to install the latest version and try clearing the app data and Google Play Services data\n- size 62.60 MB\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
   "size": "65.53 MB",
   "mandatory": false
