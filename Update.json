@@ -1,8 +1,8 @@
 {
   "latest_version": "v1.0.0",
-  "version_code": 550,
+  "version_code": 560,
   "title": "DramaBox 1",
-  "changelog": "- DramaBox Version New 5.5.0\n- Bug has been fixed\n- Performance improvements\n- Fixed the anonymous data issue\n- If you still experience any issues the solution is to install the latest version and try clearing the app data and Google Play Services data\n- Suggestion: If there is an anonymous network problem open the episode and dont speed it up\n- size 61.20 MB\n- Updated to the latest version",
+  "changelog": "- DramaBox Version New 5.6.0 Cooming\n- Bug has been fixed\n- Performance improvements\n- Fixed the anonymous data issue\n- If you still experience any issues the solution is to install the latest version and try clearing the app data and Google Play Services data\n- This update has fixed some minor bugs Clear all data so it doesn't accumulate from before\n- size 62.15 MB\n- Updated to the latest version",
   "download_url": "https://t.me/+oBYmjb5Jv64xZjU1",
   "size": "60.74 MB",
   "mandatory": false
